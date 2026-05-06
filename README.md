@@ -1,4 +1,4 @@
-Workout Tracker App
+# Workout Tracker App
 
 A simple Python workout tracking application that allows users to log and manage their efficiently.
 
